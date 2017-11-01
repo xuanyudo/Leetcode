@@ -13,3 +13,5 @@ You may assume that each input would have exactly one solution, and you may not 
 
 You may assume the two numbers do not contain any leading zero, except the number 0 itself.</p>
 
+<h2>3. longest_substring_without_repeating_character.py</h2>
+<p>Given a string, find the length of the longest substring without repeating characters.</p>
